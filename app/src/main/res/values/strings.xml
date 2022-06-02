@@ -1,3 +1,10 @@
+<!--
+  ~     Nama : Albee Akbar
+  ~     Nim : 10119203
+  ~     Kelas : IF-5
+  -->
+
 <resources>
-    <string name="app_name">UTSPraktik-IF5-10119203-AlbeeAkbarFillah</string>
+    <string name="app_name">UTSPraktik-IF5-10119203-AlbeeAKbarFillah</string>
+    <string name="denganini">Dengan ini saya menyetujui bahwa data yang saya isikan adalah benar</string>
 </resources>
